@@ -1,6 +1,6 @@
 using System;
 
-namespace exercicio1044
+namespace exercicio1046
 {
     internal class Class1
     {

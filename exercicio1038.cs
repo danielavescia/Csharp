@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace exercicio1061
+namespace exercicio1038
 {
     internal class Class1
     {
